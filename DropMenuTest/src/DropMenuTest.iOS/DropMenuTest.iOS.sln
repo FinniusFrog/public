@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropMenuTest.iOS", "DropMenuTest.iOS.csproj", "{58F515AE-8281-4A7F-B42C-91B470F5F057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Debug|iPhone.Build.0 = Debug|iPhone
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Release|iPhone.ActiveCfg = Release|iPhone
+		{58F515AE-8281-4A7F-B42C-91B470F5F057}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B732BF78-4450-4094-BE59-BA2F1F2EC6AF}
+	EndGlobalSection
+EndGlobal
